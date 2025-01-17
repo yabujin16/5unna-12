@@ -1,6 +1,6 @@
 - I’m nizar
 - I’m interested in everything
-- I’m currently learning javascript
+- I’m currently learning html
 - I’m looking to collaborate on nothing
 - I have hippophobia
 
